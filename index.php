@@ -1,3 +1,3 @@
 <?php 
-echo "Hello Me";
- ?>
+	echo "We are the world. Ingatanku.";
+?>
